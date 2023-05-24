@@ -34,7 +34,7 @@ public class CommentService {
 		return comment.getId();
 	}
 	
-    public List<Comment> getComments(int postId) {
+    public List<Comment> getComments(String postId) {
         return commentRepo.findByPostID(postId);
     }
     

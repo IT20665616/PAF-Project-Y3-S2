@@ -12,5 +12,5 @@ import com.influenzer.backend.Models.Comment;
 public interface CommentRepo extends MongoRepository<Comment, String> {
 	
 	@Query("{'PostID':?0}")
-	List<Comment> findByPostID(int postID);
+	List<Comment> findByPostID(String postId);
 }
