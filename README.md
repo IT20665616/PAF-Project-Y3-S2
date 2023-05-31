@@ -4,17 +4,18 @@
 
 ### Website Name - Influenzer
 
-Learning Outcomes 
-####A Java (Spring Boot) based REST API for the given business scenario, utilizing the best practices learned 
-       throughout the module.
-A React based client web application to let the intended users fulfill their needs by utilizing the designed system.
+### Learning Outcomes 
 
-Introduction
+1. A Java (Spring Boot) based REST API for the given business scenario, utilizing the best practices learned 
+throughout the module.
 
-    This project is to develop a social media platform for “foodies” (food and beverage reviewers) to share 
-    their food and dining experiences.  
+2. A React based client web application to let the intended users fulfill their needs by utilizing the designed system.
+
+### Introduction
+
+This project is to develop a social media platform for “foodies” (food and beverage reviewers) to share their food and dining experiences.  
       
-Tools and Technologies used
+#### Tools and Technologies used
 
       Frontend - React
       Backend - Springboot
@@ -24,7 +25,7 @@ Tools and Technologies used
       IDE - Visual Studio Code
       Testing and quality assuarence - Selenium, SonarQube
 
-Collaborators 
+#### Collaborators 
 
       Groupe Leader - IT20665616 - Sumanasekara H.P
       Member 2 - IT20665852 - Gunasekara C.M 
