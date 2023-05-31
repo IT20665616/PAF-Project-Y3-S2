@@ -6,11 +6,11 @@
 
 #### Learning Outcomes 
 
-     1. A Java (Spring Boot) based REST API for the given business scenario, 
-        utilizing the best practices learned throughout the module.
+     1. A Java (Spring Boot) based REST API for the given business scenario, utilizing the best 
+        practices learned throughout the module.
 
-     2. A React based client web application to let the intended users fulfill 
-        their needs by utilizing the designed system.
+     2. A React based client web application to let the intended users fulfill their needs by utilizing 
+        the designed system.
 
 #### Introduction
 
